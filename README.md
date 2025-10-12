@@ -1,5 +1,7 @@
 # NativeScript for Web
 
+[![npm](https://img.shields.io/npm/v/nativescript-web-adapter.svg?logo=npm&label=npm)](https://www.npmjs.com/package/nativescript-web-adapter)
+
 Read this in Chinese: [README_ZH.md](README_ZH.md)
 
 Map common NativeScript UI tags to browser-ready Vue 3 components, enabling the same SFC to run on both Native and Web. Inspired by React Native for Web.

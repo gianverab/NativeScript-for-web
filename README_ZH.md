@@ -1,5 +1,7 @@
 # NativeScript for Web
 
+[![npm 已发布版本](https://img.shields.io/npm/v/nativescript-web-adapter.svg?logo=npm&label=npm)](https://www.npmjs.com/package/nativescript-web-adapter)
+
 将 NativeScript 的常用 UI 标签映射为可在浏览器中运行的 Vue 3 组件，面向“同一 SFC 同时可在 Native 与 Web 端运行”的开发体验。灵感来自 React Native for Web。
 
 —— 适用于将现有 NativeScript Vue 项目快速在 Web 中预览、调试或发布简单的 Web 版本。

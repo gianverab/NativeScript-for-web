@@ -5,9 +5,16 @@
 
 Read this in Chinese: [README_ZH.md](README_ZH.md)
 
+Template:https://github.com/ponzS/NS-Vue-Vite-Web-Native-Template
+
 Map common NativeScript UI tags to browser-ready Vue 3 components, enabling the same SFC to run on both Native and Web. Inspired by React Native for Web.
 
 — Ideal for quickly previewing, debugging, or shipping a simplified web version of existing NativeScript Vue projects.
+
+
+https://github.com/user-attachments/assets/321c68db-2ff4-4049-b0c8-4745f68bf120
+
+
 
 ## Features
 

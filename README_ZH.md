@@ -3,9 +3,16 @@
 [![npm 已发布版本](https://img.shields.io/npm/v/nativescript-web-adapter.svg?logo=npm&label=npm)](https://www.npmjs.com/package/nativescript-web-adapter)
 [![MIT 许可证](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
+模版:https://github.com/ponzS/NS-Vue-Vite-Web-Native-Template
+
 将 NativeScript 的常用 UI 标签映射为可在浏览器中运行的 Vue 3 组件，面向“同一 SFC 同时可在 Native 与 Web 端运行”的开发体验。灵感来自 React Native for Web。
 
 —— 适用于将现有 NativeScript Vue 项目快速在 Web 中预览、调试或发布简单的 Web 版本。
+
+
+https://github.com/user-attachments/assets/2810ed0b-9eba-4ca7-8c9e-9e91515ab76c
+
+
 
 ## 特性
 

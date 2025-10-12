@@ -1,6 +1,7 @@
 # NativeScript for Web
 
 [![npm](https://img.shields.io/npm/v/nativescript-web-adapter.svg?logo=npm&label=npm)](https://www.npmjs.com/package/nativescript-web-adapter)
+[![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 Read this in Chinese: [README_ZH.md](README_ZH.md)
 

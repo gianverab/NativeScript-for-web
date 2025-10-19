@@ -10,6 +10,10 @@
 —— 适用于将现有 NativeScript Vue 项目快速在 Web 中预览、调试或发布简单的 Web 版本。
 
 
+
+https://github.com/user-attachments/assets/811ea70a-fc7a-4bf5-b4e3-3e8a6aa300a5
+
+
 https://github.com/user-attachments/assets/2810ed0b-9eba-4ca7-8c9e-9e91515ab76c
 
 

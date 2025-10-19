@@ -12,6 +12,10 @@ Map common NativeScript UI tags to browser-ready Vue 3 components, enabling the 
 — Ideal for quickly previewing, debugging, or shipping a simplified web version of existing NativeScript Vue projects.
 
 
+
+https://github.com/user-attachments/assets/6ccb9f57-5638-4fec-b26d-dbcb3ac2bb35
+
+
 https://github.com/user-attachments/assets/321c68db-2ff4-4049-b0c8-4745f68bf120
 
 
